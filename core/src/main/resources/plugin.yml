@@ -1,0 +1,10 @@
+name: TimingSystemNoBoatCollisions
+version: 1.0-SNAPSHOT
+main: com.frosthex.timingsystem.noboatcollisions.TimingSystemNoBoatCollisionsPlugin
+api-version: 1.20
+authors: [JustBru00]
+softdepend: [TimingSystem]
+
+commands:
+  noboatcollisions:
+    description: 'A command that shows details about the TimingSystemNoBoatCollisions add-on plugin.'
