@@ -6,7 +6,7 @@
     <parent>
         <groupId>com.frosthex</groupId>
         <artifactId>TimingSystemNoBoatCollisions</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0</version>
     </parent>
 
     <artifactId>TimingSystemNoBoatCollisions-spigot-1.21.1</artifactId>

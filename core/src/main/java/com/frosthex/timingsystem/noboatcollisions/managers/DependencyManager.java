@@ -12,7 +12,7 @@ public class DependencyManager {
     private static boolean timingSystemInstalled = false;
     private static String timingSystemVersion = "null";
 
-    private static final String timingSystemSupportedVersion = "2.3";
+    private static final String timingSystemSupportedVersion = "2.2.1";
     private static final VersionComparator compare = new VersionComparator();
 
     private static final String[] supportedMinecraftVersions = {"1.20.1", "1.20.6", "1.21.1"};
