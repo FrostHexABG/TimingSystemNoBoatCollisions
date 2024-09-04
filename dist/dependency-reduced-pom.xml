@@ -3,10 +3,11 @@
   <parent>
     <artifactId>TimingSystemNoBoatCollisions</artifactId>
     <groupId>com.frosthex</groupId>
-    <version>1.0</version>
+    <version>1.1-RC1</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
   <artifactId>TimingSystemNoBoatCollisions-dist</artifactId>
+  <version>1.1-RC1</version>
   <build>
     <plugins>
       <plugin>
