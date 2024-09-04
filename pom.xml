@@ -14,7 +14,7 @@
         <module>spigot-1.20.6</module>
         <module>spigot-1.21.1</module>
         <module>dist</module>
-        <module>TimingSystemNoBoatCollisions-spigot-1.19.4</module>
+        <module>spigot-1.19.4</module>
     </modules>
 
     <properties>
